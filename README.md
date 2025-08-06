@@ -24,7 +24,9 @@ The project follows a three-stage pipeline, transforming raw pixels into context
 
 **3. The UrbanGraphSAGE Model:** A multi-layer GraphSAGE model was designed for node classification (Building vs. Non-Building), featuring a JumpingKnowledge layer to create a rich, multi-scale feature representation.
 
-![Model Architecture](assets/model_architecture.png)
+<p align="center">
+  <img src="assets/model_architecture.png" alt="Model Architecture" width="450"/>
+</p>
 
 ---
 
