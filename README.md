@@ -62,7 +62,7 @@ The final augmented model demonstrated exceptional performance in identifying bu
 
 ## Acknowledgements
 
-This research was conducted as part of the Master's program in Artificial Intelligence and Big Data at the University of Khemis Miliana and was developed under the invaluable guidance of my supervisors.
+This research was conducted as a final year Master's project for the University of Khemis Miliana and as a professional internship at the **Algerian Space Agency (ASAL)**. The work was developed under the invaluable guidance of my supervisors.
 
 *   **Dr. Meziane IFTENE** (Supervisor) - *Algerian Space Agency*
 *   **Dr. Mohammed El Amin LARABI** (Supervisor) - *Algerian Space Agency*
