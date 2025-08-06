@@ -1,0 +1,24 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environments and cache files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Common data file formats
+*.csv
+*.json
+*.zip
+*.gz
+*.parquet
+
+# Operating System files
+Thumbs.db
