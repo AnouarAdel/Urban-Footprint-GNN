@@ -2,10 +2,6 @@
 
 ![Project Pipeline Overview](assets/pipeline_overview.png)
 
-### Master's Thesis Project by Anouar Adel
-
----
-
 ## Abstract
 
 Accurate urban building footprint data is essential for sustainable urban planning (SDG 11). This study introduces a novel framework that overcomes the dual challenges of extracting detailed features from medium-resolution Sentinel-2 imagery and the inherent quality issues of crowdsourced OpenStreetMap (OSM) data. We achieve this by integrating Graph Neural Networks (GNNs) with a rigorous, multi-source data assessment pipeline.
